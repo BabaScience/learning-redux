@@ -1,4 +1,7 @@
 
+# node_modules
 
-
-**/node_modules/**
+bugs-backend/node_modules/
+bugs-frontend/node_modules/
+redux-finish/node_modules/
+redux-starter/node_modules/
